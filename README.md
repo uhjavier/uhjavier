@@ -1,4 +1,4 @@
-lt### Hi, I'm Javier
+### Hi, I'm Javier
 ### Connect with me:
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=YouTube)](https://youtube.com/pepper1)
