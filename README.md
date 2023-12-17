@@ -1,4 +1,4 @@
-### Hi, I'm Javier
+lt### Hi, I'm Javier
 ### Connect with me:
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=YouTube)](https://youtube.com/pepper1)
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=uhjavier)](https://git.io/streak-stats)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhjavier&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhjavier&show_icons=true&theme=default)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uhjavier)](https://github.com/anuraghazra/github-readme-stats)
 
