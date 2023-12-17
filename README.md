@@ -1,5 +1,8 @@
 ### Hi, I'm Javier
+### Connect with me:
 
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=YouTube)](https://youtube.com/pepper1)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/javier-lam-ab6236206/)
 <!--
 **uhjavier/uhjavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +13,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+### Connect with me:
+
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=YouTube)](https://youtube.com/pepper1)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/javier-lam-ab6236206/)
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
